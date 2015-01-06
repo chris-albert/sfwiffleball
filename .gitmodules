@@ -1,3 +1,4 @@
 [submodule "reddy.js"]
 	path = reddy.js
 	url = https://creasetoph@github.com/creasetoph/reddy.js.git
+        branch = master
